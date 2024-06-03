@@ -4,14 +4,16 @@
 <head>
 
     <meta charset="UTF-8">
+    <link rel="icon" href="{{ asset('images/car-wash.png') }}" type="image/icon type">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="sistem antrian menggunakan bot telegram laravel">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Laravel, Antrian, Sistem, telegram, bot, skripsi, aplikasi">
+    <meta name="author" content="nsbbusiness01@gmail.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
 
-    <title>Chain App Dev - App Landing Page HTML5 Template</title>
+    <title>Sistem Antrian Menggunakan Bot Telegram</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{ asset('assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
@@ -50,8 +52,8 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="index.html" class="logo">
-                            <img src="{{ asset('assets/assets/images/logo.png') }}" alt="Chain App Dev">
+                        <a href="/" class="logo">
+                            <img src="{{ asset('images/car-wash.png') }}" alt="Chain App Dev" style="max-width: 50px">
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
