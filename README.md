@@ -23,6 +23,7 @@
 
 - Bot Telegram
 Pengguna dapat mendapatkan nomor antrian dengan mengirim pesan ke bot telegram. Bot akan membalas pesan dengan beberapa tombol untuk proses pengecekan antrian, pengambilan antrian dan mengirim pesan bahwa antrian pengguna sudah dipanggil/diproses.
+
 ![bot](https://github.com/nanangsetya/sistem_antrian_menggunakan_bot_telegram/assets/67083208/ebdff2f9-b643-4c0d-9297-90d3604885fb)
 
 - Beranda
