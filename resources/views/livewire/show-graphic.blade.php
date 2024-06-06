@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="section-heading">
-                        <h4>Check What <em>The Clients Say</em> About Our App Dev</h4>
+                        <h4>Statistik <em>Antrian</em></h4>
                         <img src="{{ asset('assets/assets/images/heading-line-dec.png') }}" alt="">
                         <select name="year" class="form-control" wire:change="$emit('changeYear', $event.target.value)">
                             @for($i = 0; $i < count($years); $i++)

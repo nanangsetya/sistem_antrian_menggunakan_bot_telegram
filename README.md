@@ -27,6 +27,11 @@ Pengguna dapat mendapatkan nomor antrian dengan mengirim pesan ke bot telegram. 
 
 ![bot](https://github.com/nanangsetya/sistem_antrian_menggunakan_bot_telegram/assets/67083208/ebdff2f9-b643-4c0d-9297-90d3604885fb)
 
+- Pesan
+
+Sistem akan mengirimkan pesan jika nomor antrian pengguna telah dipanggil.
+![Screenshot 2024-06-04 093808](https://github.com/nanangsetya/sistem_antrian_menggunakan_bot_telegram/assets/67083208/3e8a24cb-619d-4b79-8a05-714601338fbd)
+
 - Beranda
 
 Halaman depan website untuk monitor nomor antrian yang berjalan dan total nomor antrian.
@@ -37,7 +42,5 @@ Halaman depan website untuk monitor nomor antrian yang berjalan dan total nomor 
 Admin dapat melihat dan memanggil nomor antrian dengan mengklik tombol "Antrian Selanjutnya".
 ![Screenshot 2024-06-04 093212](https://github.com/nanangsetya/sistem_antrian_menggunakan_bot_telegram/assets/67083208/06c23d40-1211-45a3-8aa0-cf5cdcc502ea)
 
-- Pesan
-
-Sistem akan mengirimkan pesan bahwa nomor antrian pengguna telah dipanggil.
-![Screenshot 2024-06-04 093808](https://github.com/nanangsetya/sistem_antrian_menggunakan_bot_telegram/assets/67083208/3e8a24cb-619d-4b79-8a05-714601338fbd)
+Terdapat juga statistik antrian.
+![Screenshot 2024-06-06 225031](https://github.com/nanangsetya/sistem_antrian_menggunakan_bot_telegram/assets/67083208/ea47e5d1-79f4-44cf-ab1c-504d8ca69f63)
