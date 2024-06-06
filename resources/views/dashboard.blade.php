@@ -14,4 +14,6 @@
     </div>
     <livewire:admin-antrian />
 </div>
+
+<livewire:show-graphic />
 @endsection
